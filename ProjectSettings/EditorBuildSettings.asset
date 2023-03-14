@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/cutScene1.unity
+    guid: d7da60ba9efe0a843891851e6cce4e00
+  - enabled: 1
+    path: Assets/Scenes/level 1.unity
+    guid: a65680244289a1c40a0f102ae0621b39
+  - enabled: 1
+    path: Assets/Scenes/cutScene2.unity
+    guid: 71bafe13ee636f34f803163e5a29d623
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 401b53b4830f84941af08234d528565b
+  - enabled: 1
+    path: Assets/Scenes/cutScene3.unity
+    guid: 8757c3aa497bba848bfe7891bebbb333
+  - enabled: 1
+    path: Assets/Scenes/levle 3.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/cutScene4.unity
+    guid: c6a4c9cb8e97b9b40917278c91bec35d
+  - enabled: 1
+    path: Assets/Scenes/levle 4.unity
+    guid: d502e2f3df544ab469682b843d9f3310
+  - enabled: 1
+    path: Assets/Scenes/precutScene5.unity
+    guid: 5e7b0d7546d3a254892a430c276a58db
+  - enabled: 1
+    path: Assets/Scenes/levle 5.unity
+    guid: 3e64fbfbc0381144287477cbb1e93b7e
+  - enabled: 1
+    path: Assets/Scenes/endCutscene.unity
+    guid: 925b97a0ddad51045a81d6e9cc63677b
+  m_configObjects: {}

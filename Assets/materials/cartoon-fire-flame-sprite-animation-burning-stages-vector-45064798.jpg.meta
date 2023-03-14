@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: eefb5627a27a5c8449b7ce9ba5db807b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8359820866053760351
+    second: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_0
+  - first:
+      213: 3898589140445546553
+    second: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_1
+  - first:
+      213: 8168138409653494795
+    second: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_2
+  - first:
+      213: -5010407399898737149
+    second: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_3
+  - first:
+      213: 2213133791113398188
+    second: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_4
+  - first:
+      213: -3452297977346608788
+    second: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_5
+  - first:
+      213: -6956231683361659899
+    second: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_6
+  - first:
+      213: -5018592386507370459
+    second: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_7
+  - first:
+      213: -6586613317572169459
+    second: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_8
+  - first:
+      213: 2795844747279336717
+    second: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_9
+  - first:
+      213: -2994909442052195118
+    second: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_10
+  - first:
+      213: -2646972578123124768
+    second: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_11
+  - first:
+      213: -183237624226113703
+    second: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_12
+  - first:
+      213: -5837922755863695938
+    second: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_13
+  - first:
+      213: 4971863143594720589
+    second: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_14
+  - first:
+      213: 3144195472898354138
+    second: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_15
+  - first:
+      213: -8619851340686963423
+    second: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_16
+  - first:
+      213: 7031697281021107337
+    second: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_17
+  - first:
+      213: -7503171942501203040
+    second: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_18
+  - first:
+      213: 4520643594858944342
+    second: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 125
+        width: 44.6
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55680319cc040470800000000000000
+      internalID: 8359820866053760351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 125
+        width: 44.6
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938c379ea229a1630800000000000000
+      internalID: 3898589140445546553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 125
+        width: 44.6
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04ee9f5b9e0b5170800000000000000
+      internalID: 8168138409653494795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 125
+        width: 44.6
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3061c0d1405777ab0800000000000000
+      internalID: -5010407399898737149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 125
+        width: 44.6
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca74ab31571a6be10800000000000000
+      internalID: 2213133791113398188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 125
+        width: 44.6
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61b479d749f610d0800000000000000
+      internalID: -3452297977346608788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 125
+        width: 44.6
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50429e1c320867f90800000000000000
+      internalID: -6956231683361659899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 125
+        width: 44.6
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5209fb960d06a5ab0800000000000000
+      internalID: -5018592386507370459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_8
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 125
+        width: 44.6
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01f045c516a794a0800000000000000
+      internalID: -6586613317572169459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_9
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 125
+        width: 44.6
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d050ab01cf5dcc620800000000000000
+      internalID: 2795844747279336717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 44.6
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcf30ceab1ff66d0800000000000000
+      internalID: -2994909442052195118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 44.6
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef65c6e670144bd0800000000000000
+      internalID: -2646972578123124768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 44.6
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95714820a52057df0800000000000000
+      internalID: -183237624226113703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_13
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 44.6
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd23962f288bfea0800000000000000
+      internalID: -5837922755863695938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_14
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 44.6
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4df1d1ef2b9ff440800000000000000
+      internalID: 4971863143594720589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_15
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 44.6
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb6f7abf1d62ab20800000000000000
+      internalID: 3144195472898354138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 44.6
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dcda520e2206880800000000000000
+      internalID: -8619851340686963423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_17
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 44.6
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cd75beb6b959160800000000000000
+      internalID: 7031697281021107337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_18
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 0
+        width: 44.6
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3c98e2fd06fd790800000000000000
+      internalID: -7503171942501203040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sprite-animation-burning-stages-vector-45064798_19
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 0
+        width: 44.6
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65756bbe56d8cbe30800000000000000
+      internalID: 4520643594858944342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
